@@ -2,7 +2,7 @@
 <p align="center"> <br/>
 <a href="https://github.com/SilvestreL">.</a> <br>
 
-![Preview]([https://user-images.githubusercontent.com/114963243/242606540-7a36c57d-17a3-41cc-8093-ca6519a91c8a.jpeg](https://github.com/SilvestreL/Cronometro/blob/main/preview.png))
+![Preview](https://raw.githubusercontent.com/SilvestreL/Cronometro/main/preview.png)
 
 </p>
 
